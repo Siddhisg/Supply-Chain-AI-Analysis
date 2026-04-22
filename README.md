@@ -87,6 +87,7 @@ supply-chain-ai-analysis/
 ---
 
 ## 📸 Screenshots
+<img width="1920" height="993" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/110cef02-895b-40e6-a235-bd9fd6966520" />
 
 
 
